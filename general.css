@@ -36,9 +36,6 @@ body .indexid,
   max-width: 1200px;
 }
 
-.indexid {
-  max-width: 800px;
-}
 .title {
   color: black;
   text-decoration: none;
@@ -293,8 +290,14 @@ div {
     border-radius: 15px;
     background-color: #f8f7aa;
   }
-}
+  .grid-span-1 {
+    margin-left: 2em;
+  }
 
-.grid-span-1 {
-  margin-left: 2em;
+  .intro1 {
+    margin-left: -10rem;
+  }
+  .intro2 {
+    margin-left: -10rem;
+  }
 }
