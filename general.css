@@ -303,4 +303,9 @@ div {
   .intro2 {
     max-width: 300px;
   }
+
+  .pbm {
+    margin-bottom: 2em;
+    text-align: center;
+  }
 }
